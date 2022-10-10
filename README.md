@@ -5,7 +5,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/jotrorox/robot-radio-controlled** and import
+* search for **https://github.com/jugend-hackt/robot-radio-controlled** and import
 
 ## Edit this project ![Build status badge](https://github.com/jugend-hackt/robot-radio-controlled/workflows/MakeCode/badge.svg)
 
